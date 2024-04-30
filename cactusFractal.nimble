@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Cletus Igwe"
-description   = "Shitcoin Cryptocurrency Implementation"
+description   = "Using L-systems to generate cactus plants"
 license       = "MIT"
 
 # Dependencies
